@@ -2,11 +2,13 @@
   "users": [
       {
         "id": 1,
-        "name": "Tyler"
+        "firstName": "Tyler",
+        "lastName": "Hall"
       },
       {
         "id": 2,
-        "name": "Anna"
+        "firstName": "Anna",
+        "lastName": "Hall"
       }
     ]
 }
