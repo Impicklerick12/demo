@@ -1,5 +1,5 @@
 {
-      {
+      user: {
         "id": 1,
         "firstName": "Tyler",
         "lastName": "Hall"
